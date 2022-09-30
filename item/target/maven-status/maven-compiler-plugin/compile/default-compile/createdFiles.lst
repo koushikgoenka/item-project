@@ -1,0 +1,7 @@
+com\example\item\repository\ItemRepository.class
+com\example\item\ItemApplication.class
+com\example\item\entities\Item.class
+com\example\item\service\ItemService.class
+com\example\item\dto\ItemDto.class
+com\example\item\service\impl\ItemServiceImpl.class
+com\example\item\controller\ItemController.class
